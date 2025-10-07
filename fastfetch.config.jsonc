@@ -17,11 +17,11 @@
 	  }
      },
      "display": {
-       "separator": " -->> ",
+       "separator": " }---{ ",
        "color": {
-         "keys": "blue",
+         "keys": "white",
 	 "output": "yellow",	 
-	 "separator": "magenta"
+	 "separator": "green"
         }
     },
     "modules": [
